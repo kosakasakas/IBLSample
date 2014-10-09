@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{350FE3E3-48A3-F652-05DF-AA9DB89C53B0}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_4;UNITY_4_5;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Lightmapping Extended\Editor\ILConfig.cs" />
+     <Compile Include="Assets\Lightmapping Extended\Editor\LMExtendedWindow.cs" />
+     <Compile Include="Assets\Lightmapping Extended\Editor\SavePresetWindow.cs" />
+     <Compile Include="Assets\Lightmapping Extended\Editor\SerializedConfig.cs" />
+     <Compile Include="Assets\Lux\Lux Scripts\Editor\LuxMaterialInspector.cs" />
+     <Compile Include="Assets\Lux\Lux Scripts\Lux Cubemapper\Editor\LuxEnvProbeEditor.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimAnimMorphHelperInspector.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimAssetPostprocessor.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimBoneInspector.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimEditorCommon.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporter.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterAnimations.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterEditor.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterInspector.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterMaterial.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterPMX2FBX.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterRig.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimModelInspector.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimRigidBodyInspector.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimUnityChanMorphHelperInspector.cs" />
+     <Compile Include="Assets\MMD4Mecanim\Editor\UnityChanMorphInspector.cs" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-SurfaceEdge-ForwardAdd.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NEXTEdge-ForwardBase.cginc" />
+     <None Include="Assets\Lux\Lux Shader\LuxCore\Resources\Lux Internal-PrePassLighting.shader" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_White.txt" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-SurfaceEdge-PrePassFinal.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-Transparent.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-SurfaceEdge-Lighting.cginc" />
+     <None Include="Assets\Lightmapping Extended\Shaders\AlphaTest-BumpSpec.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-BothFaces-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-Transparent.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Surface-Lighting.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-BothFaces-Transparent-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-SurfaceEdge-ForwardBase.cginc" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_Normal.MMD4Mecanim.xml" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-Surface-Lighting.cginc" />
+     <None Include="Assets\Lux\Lux Shader\Lux Bumped Specular.shader" />
+     <None Include="Assets\Lux\Lux Shader\Lux Bumped Specular Metalness.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-BothFaces-Transparent.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-BothFaces-Transparent-Edge.shader" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_White.xml" />
+     <None Include="Assets\Lux\Lux Shader\Lux Bumped Diffuse.shader" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-VertexLit.shader" />
+     <None Include="Assets\dragonScene\BeastSettings.xml" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-BothFaces.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-BothFaces.shader" />
+     <None Include="Assets\Lightmapping Extended\Presets\Built-in\Low Quality.xml" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-Glossy.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-BothFaces-Transparent-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Surface-ShadowCaster.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Surface-ForwardBase.cginc" />
+     <None Include="Assets\Lightmapping Extended\Shaders\AlphaTest-Bumped.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-BothFaces-Transparent.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-BothFaces-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-Edge.shader" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-BumpSpec.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit.shader" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_Normal.xml" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-ParallaxSpec.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-Transparent-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-SurfaceEdge-PrePassBase.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Surface-ForwardAdd.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-BothFaces-Transparent-Edge.shader" />
+     <None Include="Assets\Lux\Lux Shader\LuxCore\LuxLightingDirect.cginc" />
+     <None Include="Assets\Lightmapping Extended\Presets\Built-in\High Quality.xml" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Transparent-Edge.shader" />
+     <None Include="Assets\WAVEFILE_fullver\readme.txt" />
+     <None Include="Assets\Lux\_Lux Documentation.txt" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\Tda式初音ミク・アペンド_Ver1.00.xml" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-BothFaces-Transparent.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-SurfaceEdge-Lighting.cginc" />
+     <None Include="Assets\Lux\__Lux Readme first important!!!!!!.txt" />
+     <None Include="Assets\Lux\Lux Scripts\Lux Cubemapper\_Lux Cubemapper.txt" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred.shader" />
+     <None Include="Assets\Lightmapping Extended\Shaders\AlphaTest-Diffuse.shader" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\readme_English.txt" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_White.MMD4Mecanim.xml" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-Transparent-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-AutoLight.cginc" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-Parallax.shader" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\よんでね.txt" />
+     <None Include="Assets\Lightmapping Extended\Shaders\AlphaTest-SoftEdgeUnlit.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NEXTEdge-Pass4.shader" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-Diffuse.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting-BothFaces-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-Surface-PrePassFinal.cginc" />
+     <None Include="Assets\Lux\Lux Shader\LuxCore\LuxVertFunc.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NEXTEdge-Pass8.shader" />
+     <None Include="Assets\Lux\Lux Shader\LuxCore\Resources\Camera-DepthNormalTexture.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-NoShadowCasting.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Transparent.shader" />
+     <None Include="Assets\Tda式初音ミク・アペンドVer1.00\Tda式初音ミク・アペンド_Ver1.00.MMD4Mecanim.xml" />
+     <None Include="Assets\Lux\Demos\00 Shared assets\fontMaterialsetc\FontZtest.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Edge.shader" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_Normal.txt" />
+     <None Include="Assets\Lightmapping Extended\Shaders\AlphaTest-VertexLit.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-ZClear.shader" />
+     <None Include="Assets\Lightmapping Extended\license.txt" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-Transparent-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Editor\PMX2FBX\pmx2fbx.xml" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-BothFaces-Edge.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-Surface-PrePassBase.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NEXTEdge-Lighting.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-Transparent.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-BothFaces-Transparent.shader" />
+     <None Include="Assets\Lightmapping Extended\readme.txt" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Surface-ShadowCollector.cginc" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-NoShadowCasting-Edge.shader" />
+     <None Include="Assets\Lightmapping Extended\Shaders\Alpha-Bumped.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Dummy.shader" />
+     <None Include="Assets\Lux\Lux Shader\LuxCore\Resources\Camera-DepthTexture.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Deferred-BothFaces.shader" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\よ式初音ミク_使用前にお読みください.txt" />
+     <None Include="Assets\Yo_Miku_Ver1.2.1\Yo_Miku_Ver1.2.1_Black.txt" />
+     <None Include="Assets\Lux\Lux Shader\Lux Bumped Specular Materialtest.shader" />
+     <None Include="Assets\Lightmapping Extended\Shaders\AlphaTest-Glossy.shader" />
+     <None Include="Assets\Lux\Lux Shader\LuxCore\LuxLightingAmbient.cginc" />
+     <None Include="Assets\Lux\Demos\01 Lux Base Demo\Cerberus Metalness Test\Disclaimer.txt" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-BothFaces.shader" />
+     <None Include="Assets\MMD4Mecanim\Shaders\MMD4Mecanim-MMDLit-Lighting.cginc" />
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+ <Reference Include="BulletXNA-Unity">
+ <HintPath>/Users/takahiro.kosaka/git/kosakasakas/IBLSample/project/Assets/BulletXNA/BulletXNA-Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="MMD4MecanimInternal">
+ <HintPath>/Users/takahiro.kosaka/git/kosakasakas/IBLSample/project/Assets/MMD4Mecanim/Scripts/Internal/MMD4MecanimInternal.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{7CA597AC-799E-2D81-E8A0-0EA9A568434E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript.unityproj">
+      <Project>{4BF79580-BD40-8719-DEC4-3FC42411B4D7}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
