@@ -1,347 +1,693 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Pipe name: \\.\pipe\UnityShaderCompiler-1--1590533720
 Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=393 outsize=907 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=393 outsize=924 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=393 outsize=1134 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=393 outsize=1802 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=393 outsize=907 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=393 outsize=924 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=393 outsize=907 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=393 outsize=924 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=393 outsize=907 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=393 outsize=924 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=3406 outsize=2639 ok=1
+  insize=433 outsize=1179 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1559 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4279 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=1259 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4279 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=506 outsize=1629 kw=POINT ok=1
+  api=0 type=0 insize=2255 outsize=817 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=506 outsize=1356 kw=POINT ok=1
+  api=0 type=1 insize=2255 outsize=536 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=515 outsize=420 kw=SHADOWS_DEPTH ok=1
+  api=0 type=0 insize=1783 outsize=457 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=515 outsize=127 kw=SHADOWS_DEPTH ok=1
+  api=0 type=1 insize=1783 outsize=159 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=521 outsize=1025 kw=SHADOWS_NONATIVE ok=1
+  api=0 type=0 insize=3996 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=521 outsize=820 kw=SHADOWS_NONATIVE ok=1
+  api=0 type=1 insize=3996 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: preprocess
-  insize=2575 outsize=2241 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=449 outsize=461 kw= ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=449 outsize=198 kw= ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2110 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  insize=433 outsize=1179 ok=1
 Cmd: preprocess
-  insize=1149 outsize=398 ok=1
+  insize=433 outsize=1179 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=1050 outsize=482 kw= ok=1
+  api=0 type=0 insize=4279 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=1050 outsize=303 kw= ok=1
+  api=0 type=1 insize=4279 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2255 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2255 outsize=536 kw=POINT ok=1
 Cmd: preprocess
-  insize=3534 outsize=2766 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1559 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=1322 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=506 outsize=1629 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=506 outsize=1479 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=515 outsize=420 kw=SHADOWS_DEPTH ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=515 outsize=127 kw=SHADOWS_DEPTH ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=522 outsize=1025 kw=SHADOWS_NONATIVE ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=522 outsize=820 kw=SHADOWS_NONATIVE ok=1
+  insize=433 outsize=1179 ok=1
 Cmd: preprocess
-  insize=3397 outsize=2630 ok=1
+  insize=547 outsize=1294 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4280 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4280 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2256 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2256 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1784 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1784 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3997 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3997 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: preprocess
-  insize=4410 outsize=3264 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=867 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=294 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=512 outsize=535 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=512 outsize=405 kw=POINT ok=1
+  insize=547 outsize=1294 ok=1
 Cmd: preprocess
-  insize=2530 outsize=2196 ok=1
+  insize=433 outsize=1179 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2255 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2255 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4279 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4279 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=3145 outsize=2625 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (13): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=552 outsize=1180 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=449 outsize=461 kw= ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=449 outsize=198 kw= ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=493 outsize=886 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=493 outsize=143 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2686): Cannot continue
+  api=0 type=0 insize=4398 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3445 outsize=2678 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “Assets/SoftShadow/UnityCG2.cginc”
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “Assets/SoftShadow/UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (13): Malformed #include (no start quote found): #include “Assets/SoftShadow/HLSLSupport2.cginc”
+  insize=606 outsize=1179 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2686): Cannot continue
+  api=0 type=0 insize=4452 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=4364 outsize=3218 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “Assets/SoftShadow/UnityCG2.cginc”
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “Assets/SoftShadow/UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (13): Malformed #include (no start quote found): #include “Assets/SoftShadow/HLSLSupport2.cginc”
+  insize=609 outsize=1180 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2686): Cannot continue
+  api=0 type=0 insize=4455 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=4390 outsize=3252 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (13): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=555 outsize=1180 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=509 outsize=1559 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=509 outsize=1322 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1629 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=1479 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=516 outsize=420 kw=SHADOWS_DEPTH ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=516 outsize=127 kw=SHADOWS_DEPTH ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=522 outsize=1025 kw=SHADOWS_NONATIVE ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=522 outsize=820 kw=SHADOWS_NONATIVE ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2686): Cannot continue
+  api=0 type=0 insize=4401 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=2234 outsize=1113 ok=1
+  error: 1 plat 12 at (10): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=559 outsize=1179 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=670 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=368 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=696 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=367 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=695 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=368 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=696 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=332 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (10): Syntax error in #include
+  error: 2 plat 0 at (2685): Cannot continue
+  api=0 type=0 insize=4405 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3920 outsize=3073 ok=1
+  error: 1 plat 12 at (10): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=556 outsize=1177 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=449 outsize=461 kw= ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=449 outsize=198 kw= ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=489 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=489 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=489 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=489 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=494 outsize=886 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=494 outsize=143 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 0 at (10): Syntax error in #include
+  error: 2 plat 0 at (2685): Cannot continue
+  api=0 type=0 insize=4402 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=2511 outsize=2177 ok=1
+  error: 1 plat 12 at (10): Malformed #include (no start quote found): #include “UnityCG.cginc”
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=555 outsize=1180 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (10): Syntax error in #include
+  error: 2 plat 0 at (2685): Cannot continue
+  api=0 type=0 insize=4401 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3125 outsize=2604 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG.cginc”
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (13): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=551 outsize=1178 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=493 outsize=886 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=493 outsize=143 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2686): Cannot continue
+  api=0 type=0 insize=4397 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3382 outsize=2822 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG.cginc”
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=565 outsize=1190 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=493 outsize=886 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=493 outsize=143 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4404 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3164 outsize=2643 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG.cginc”
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “Assets/SoftShadow/UnityShaderVariables2.cginc”​​
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=583 outsize=1190 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2110 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4422 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=4282 outsize=3137 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG.cginc”
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “Assets/SoftShadow/UnityShaderVariables.cginc”​​
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=582 outsize=1189 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=867 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=294 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=512 outsize=535 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=512 outsize=405 kw=POINT ok=1
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4421 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=4330 outsize=3185 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG.cginc”
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “UnityShaderVariables.cginc”​​
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=564 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4403 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=4273 outsize=3128 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG.cginc”;
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “UnityShaderVariables.cginc”​​
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=565 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4404 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=2594 outsize=2260 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG.cginc”;
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “UnityShaderVariables.cginc”​​;
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=566 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4405 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3454 outsize=2687 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  error: 1 plat 12 at (4): Malformed #include (no start quote found): #include “UnityShaderVariables.cginc”​​
+  error: 1 plat 12 at (5): Malformed #include (no start quote found): #include “HLSLSupport2.cginc”
+  insize=565 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4404 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=3049 outsize=2529 ok=1
+  error: 1 plat 12 at (3): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  insize=481 outsize=1189 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 0 at (3): Syntax error in #include
+  error: 2 plat 0 at (2683): Cannot continue
+  api=0 type=0 insize=4320 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=4321 outsize=3176 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  insize=465 outsize=1178 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2686): Cannot continue
+  api=0 type=0 insize=4311 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=755 outsize=494 ok=1
+  insize=467 outsize=1179 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=563 outsize=105 kw= ok=1
+  api=0 type=0 insize=4313 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=563 outsize=92 kw= ok=1
+  api=0 type=1 insize=4313 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2289 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2289 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1817 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1817 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4030 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4030 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4313 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4313 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2289 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2289 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4313 outsize=540 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4313 outsize=1624 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=2883 outsize=2511 ok=1
+  insize=560 outsize=1179 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=0 type=0 insize=4406 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=0 type=1 insize=4406 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2382 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2382 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1910 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1910 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4123 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4123 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2382 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2382 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4406 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4406 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=3421 outsize=2761 ok=1
+  insize=1615 outsize=479 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=0 type=0 insize=1472 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=0 type=1 insize=1472 outsize=291 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=489 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=0 type=0 insize=1472 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=489 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=0 type=1 insize=1472 outsize=291 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=4342 outsize=3204 ok=1
+  insize=745 outsize=1226 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4546 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4546 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2522 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2522 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2050 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2050 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4263 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4263 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2522 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2522 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4546 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4546 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4546 outsize=540 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4546 outsize=1624 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=2656 outsize=2323 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=488 outsize=1601 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=488 outsize=2177 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 12 at (12): Can't find include file cgincludes/UnityCG2.cginc
+  error: 2 plat 12 at (13): Can't find include file AutoLight2.cginc
+  error: 2 plat 1 at (25): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (26): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2Dproj(error, float2)"
+  insize=733 outsize=92566 ok=0
 Cmd: preprocess
-  insize=2958 outsize=2582 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=492 outsize=886 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=492 outsize=143 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  error: 2 plat 1 at (25): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (26): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2Dproj(error, float2)"
+  insize=721 outsize=145293 ok=0
 Cmd: preprocess
-  insize=5268 outsize=3752 ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=867 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=294 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=512 outsize=535 kw=POINT ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=512 outsize=405 kw=POINT ok=1
+  error: 2 plat 12 at (13): Can't find include file AutoLight2.cginc
+  error: 2 plat 1 at (25): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (26): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2Dproj(error, float2)"
+  insize=722 outsize=125056 ok=0
 Cmd: preprocess
-  insize=3092 outsize=2571 ok=1
+  insize=560 outsize=1179 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4406 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4406 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2382 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2382 outsize=536 kw=POINT ok=1
 Cmd: preprocess
-  insize=2458 outsize=2272 ok=1
+  error: 2 plat 1 at (25): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (26): undefined variable "_ShadowMapTexture" unable to find compatible overloaded function "tex2Dproj(error, float2)"
+  insize=722 outsize=145295 ok=0
 Cmd: preprocess
-  insize=5220 outsize=3704 ok=1
+  insize=547 outsize=1294 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4280 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4280 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2256 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2256 outsize=536 kw=POINT ok=1
 Cmd: preprocess
-  insize=3486 outsize=2718 ok=1
+  insize=431 outsize=1177 ok=1
 Cmd: preprocess
-  insize=4088 outsize=1854 ok=1
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  insize=463 outsize=1176 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=670 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2634): Cannot continue
+  api=0 type=0 insize=4311 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”
+  insize=466 outsize=1178 ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=369 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2634): Cannot continue
+  api=0 type=0 insize=4314 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”		
+  insize=465 outsize=1177 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=697 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2634): Cannot continue
+  api=0 type=0 insize=4313 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=469 outsize=1177 ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=368 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4317 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=696 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4317 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=369 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=2293 outsize=817 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=617 outsize=697 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=2293 outsize=536 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=617 outsize=367 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=1821 outsize=457 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=618 outsize=695 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=1821 outsize=159 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=618 outsize=369 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4034 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=619 outsize=697 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4034 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=619 outsize=368 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=2293 outsize=560 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=619 outsize=696 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=2293 outsize=355 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=619 outsize=369 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4317 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=619 outsize=697 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4317 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG2.cginc”		
+  insize=465 outsize=1177 ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=619 outsize=332 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2634): Cannot continue
+  api=0 type=0 insize=4313 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (11): Malformed #include (no start quote found): #include “UnityCG.cginc”		
+  insize=464 outsize=1178 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=506 outsize=1471 kw=DIRECTIONAL ok=1
+  error: 2 plat 0 at (11): Syntax error in #include
+  error: 2 plat 0 at (2634): Cannot continue
+  api=0 type=0 insize=4312 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (12): Malformed #include (no start quote found): #include “UnityCG.cginc”		
+  insize=467 outsize=1178 ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=506 outsize=1189 kw=DIRECTIONAL ok=1
+  error: 2 plat 0 at (12): Syntax error in #include
+  error: 2 plat 0 at (2635): Cannot continue
+  api=0 type=0 insize=4315 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=1615 outsize=479 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=512 outsize=329 kw=DIRECTIONAL ok=1
+  api=0 type=0 insize=1472 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=512 outsize=297 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=1472 outsize=291 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=540 outsize=1192 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=506 outsize=1471 kw=DIRECTIONAL ok=1
+  api=0 type=0 insize=4377 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=506 outsize=1303 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=4377 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=512 outsize=329 kw=DIRECTIONAL ok=1
+  api=0 type=0 insize=2353 outsize=817 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=512 outsize=297 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=2353 outsize=536 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1471 kw=DIRECTIONAL ok=1
+  api=0 type=0 insize=1881 outsize=457 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=1303 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=1881 outsize=159 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=512 outsize=329 kw=DIRECTIONAL ok=1
+  api=0 type=0 insize=4094 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=512 outsize=297 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=4094 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1019 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=2353 outsize=560 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=761 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=2353 outsize=355 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1019 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4377 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=822 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4377 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=541 outsize=1191 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=521 outsize=1025 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+  api=0 type=0 insize=4378 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=521 outsize=1140 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+  api=0 type=1 insize=4378 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=508 outsize=1663 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=2354 outsize=817 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=508 outsize=1329 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=2354 outsize=536 kw=POINT ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=982 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=1882 outsize=457 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=294 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=1882 outsize=159 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=396 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4095 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=280 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4095 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=509 outsize=1019 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=2354 outsize=560 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=509 outsize=822 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=2354 outsize=355 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=396 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4378 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=280 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4378 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=486 outsize=1193 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=514 outsize=396 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=4323 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=514 outsize=280 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=4323 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2299 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2299 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1827 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1827 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4040 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4040 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2299 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2299 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4323 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4323 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=486 outsize=1193 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4323 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4323 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2299 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2299 outsize=536 kw=POINT ok=1
+Cmd: preprocess
+  insize=1615 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2299 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2299 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4323 outsize=436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4323 outsize=276 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4323 outsize=540 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4323 outsize=1624 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4323 outsize=1034 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4323 outsize=1599 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4279 outsize=540 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4279 outsize=1624 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4279 outsize=1034 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4279 outsize=1599 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1472 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1472 outsize=1528 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1608 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1465 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1465 outsize=245 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1465 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1465 outsize=1481 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1597 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1454 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1454 outsize=223 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1454 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1454 outsize=1459 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  error: 2 plat 12 at (11): Can't find include file AutoLight2.cginc
+  insize=1598 outsize=479 ok=0
+Cmd: preprocess
+  insize=486 outsize=1193 ok=1
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: preprocess
+  insize=1598 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1455 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1455 outsize=223 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1455 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1455 outsize=1459 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1599 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1456 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1456 outsize=223 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1456 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1456 outsize=1459 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1616 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1473 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1473 outsize=295 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1473 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1473 outsize=1523 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1473 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1473 outsize=295 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1473 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1473 outsize=1523 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1641 outsize=527 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1449 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 0 at (61): implicit cast from "half4" to "float3"
+  error: 2 plat 0 at (63): undefined variable "_MainTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  api=0 type=1 insize=1449 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=1590 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=239 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=1480 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=486 outsize=1193 ok=1
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: preprocess
+  insize=1590 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=239 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=1501 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=486 outsize=1193 ok=1
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: preprocess
+  insize=1590 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=239 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=1504 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=486 outsize=1193 ok=1
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: preprocess
+  insize=1590 outsize=479 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=371 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=239 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1447 outsize=493 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1447 outsize=1483 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1924 outsize=578 ok=1
+Cmd: compileSnippet

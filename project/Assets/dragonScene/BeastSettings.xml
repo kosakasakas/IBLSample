@@ -40,14 +40,14 @@
       <b>1</b>
       <a>1</a>
     </skyLightColor>
-    <giEnvironmentIntensity>0.3</giEnvironmentIntensity>
-    <iblImageFile>/Users/takahiro.kosaka/Downloads/PaperMill_Ruins_E/PaperMill_E_3k.hdr</iblImageFile>
+    <giEnvironmentIntensity>2.5</giEnvironmentIntensity>
+    <iblImageFile>/Users/takahiro.kosaka/Downloads/GrandCanyon_C_YumaPoint/GCanyon_C_YumaPoint_Env.hdr</iblImageFile>
     <iblBandingVsNoise>1</iblBandingVsNoise>
     <iblEmitDiffuse>true</iblEmitDiffuse>
     <iblEmitLight>true</iblEmitLight>
-    <iblEmitSpecular>true</iblEmitSpecular>
+    <iblEmitSpecular>false</iblEmitSpecular>
     <iblGIEnvBlur>0.05</iblGIEnvBlur>
-    <iblIntensity>0.6</iblIntensity>
+    <iblIntensity>1.6</iblIntensity>
     <iblSamples>300</iblSamples>
     <iblShadows>true</iblShadows>
     <iblSpecularBoost>1</iblSpecularBoost>
